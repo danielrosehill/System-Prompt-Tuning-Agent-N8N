@@ -12,6 +12,8 @@ The workflow takes user input about an existing AI agent configuration, analyzes
 
 ## How It Works
 
+![alt text](screenshots/2.png)
+
 The workflow consists of a form-based input system that collects:
 
 - **Required Information:**
